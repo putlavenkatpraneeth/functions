@@ -10,6 +10,7 @@ function arr(x) {
 }
 
 arr(-6);
+arr(2);
 
 
 
